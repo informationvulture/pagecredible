@@ -14,3 +14,7 @@ A: Originally I thought that would be the best idea, however, as more webpages g
 
 ## Todos
 I wish to use Python to get webpages and do some analysis. For the UI, I wish to use JavaScript to make it look professional.
+
+
+## Future ideas
+I hope that this app will be able to visually display pages.
