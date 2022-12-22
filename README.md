@@ -19,6 +19,8 @@ I wish to use Python to get webpages and do some analysis. For the UI, I wish to
 ## Future ideas
 I hope that this app will be able to visually display pages.
 
+If possible, use Go to add some functionality.
+
 
 ## Sources
 This project is initally depending on:
